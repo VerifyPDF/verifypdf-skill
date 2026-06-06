@@ -1,0 +1,12 @@
+# VerifyPDF API key.
+#
+# 1. Copy this file to ".verifypdf-key" (drop the ".example").
+# 2. Replace the line below with your key from the Developers section of
+#    https://secure.verifypdf.com  (live keys start key_live_, test keys key_test_).
+# 3. Save. The helper scripts read the first non-comment line as the key.
+#
+# Prefer the VERIFYPDF_API_KEY environment variable for production and CI so the
+# secret never lands on disk. This file exists for convenient local use and is
+# git-ignored. Never commit a real key or paste it into a chat prompt.
+
+key_live_REPLACE_WITH_YOUR_KEY

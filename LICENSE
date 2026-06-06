@@ -1,0 +1,24 @@
+VerifyPDF Agent Skill — Proprietary License
+SPDX-License-Identifier: LicenseRef-VerifyPDF-Proprietary
+
+Copyright (c) VerifyPDF. All rights reserved.
+
+This skill (the "Software") is provided by VerifyPDF for use with your own
+VerifyPDF API key to access the VerifyPDF document verification service.
+
+You may:
+- Download, install and run the Software in your own agents, tools and pipelines.
+- Modify the Software for your own internal use.
+
+You may not, without prior written permission from VerifyPDF:
+- Sell, sublicense or redistribute the Software as a standalone product.
+- Remove or alter this license, the publisher attribution or the homepage.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+VERIFYPDF BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Use of the VerifyPDF API is additionally governed by the VerifyPDF Terms of
+Service at https://verifypdf.com.

@@ -1,0 +1,3 @@
+# Never commit the real API key. The key lives only on the machine that runs
+# the skill, or in the VERIFYPDF_API_KEY environment variable.
+.verifypdf-key
